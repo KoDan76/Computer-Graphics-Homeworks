@@ -1,0 +1,37 @@
+﻿  Skeleton.cpp
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\framework.h(167,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(40,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(40,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(40,3): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(39,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(39,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(39,10): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(38,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(38,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(38,10): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(61,10): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(108,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(181,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(232,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(243,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(256,1): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(257,1): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(261,1): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(267,1): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(268,1): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(274,1): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(286,10): warning C4473: 'printf' : not enough arguments passed for format string
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(286,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(286,10): message : the missing variadic argument 2 is required by format string '%d'
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(333,16): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(335,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(336,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(338,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(340,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\Skeleton\Skeleton.cpp(341,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  0 of 272 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Skeleton.vcxproj -> E:\EGYETEM\Grafika\LUXOGP\Programs\Skeleton\bin\Skeleton.exe
